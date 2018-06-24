@@ -7,6 +7,10 @@ To add file into staging area
 
 # git add <filename>
 
+To add file into local repository
+
+# git commit <filename> 
+
 To remove file from staging area or repo
 
 # git rm <filename>  
