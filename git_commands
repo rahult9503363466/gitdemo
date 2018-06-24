@@ -1,0 +1,14 @@
+
+To initialize git in a perticular directory.
+
+# git init <path of dir> 
+
+To add file into staging area 
+
+# git add <filename>
+
+To remove file from staging area or repo
+
+# git rm <filename>  
+
+
